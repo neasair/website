@@ -1,0 +1,19 @@
+baseURL = "http://neasair.org"
+languageCode = "en-us"
+title = "North East Asia Security and International Relations"
+theme = "neasair"
+
+[params]
+    description = "Up-to-date summaries and translations of Chinese, Korean and Japanese language news, features and analyses - Making NEA sources on security and international relations more accessible"
+
+[[menu.main]]
+  name = "About"
+  url = "/about"
+
+[[menu.main]]
+  name = "All News"
+  url = "/blog"
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact"
