@@ -2,6 +2,9 @@ baseURL = "http://neasair.org"
 languageCode = "en-us"
 title = "North East Asia Security and International Relations"
 theme = "neasair"
+canonifyurls = true
+enableEmoji = true
+publishDir = "docs"
 
 [params]
     description = "Up-to-date summaries and translations of Chinese, Korean and Japanese language news, features and analyses - Making NEA sources on security and international relations more accessible"
