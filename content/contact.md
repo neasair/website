@@ -7,10 +7,6 @@ Email:
 
 [corey@neasair.org](mailto:corey@neasair.org)
 
-Phone:
-
-TBD: Should this be included?
-
 Follow:
 
 TODO: Social media things (Twitter, etc)
