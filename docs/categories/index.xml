@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on North East Asia Security and International Relations</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>http://neasair.org/categories/</link>
     <description>Recent content in Categories on North East Asia Security and International Relations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://neasair.org/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>chinese</title>
-      <link>http://localhost:1313/categories/chinese/</link>
+      <link>http://neasair.org/categories/chinese/</link>
       <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/chinese/</guid>
+      <guid>http://neasair.org/categories/chinese/</guid>
       <description></description>
     </item>
     
     <item>
       <title>scholar</title>
-      <link>http://localhost:1313/categories/scholar/</link>
+      <link>http://neasair.org/categories/scholar/</link>
       <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/scholar/</guid>
+      <guid>http://neasair.org/categories/scholar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>special</title>
-      <link>http://localhost:1313/categories/special/</link>
+      <link>http://neasair.org/categories/special/</link>
       <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/special/</guid>
+      <guid>http://neasair.org/categories/special/</guid>
       <description></description>
     </item>
     
     <item>
       <title>japan</title>
-      <link>http://localhost:1313/categories/japan/</link>
+      <link>http://neasair.org/categories/japan/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/japan/</guid>
+      <guid>http://neasair.org/categories/japan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>korean</title>
-      <link>http://localhost:1313/categories/korean/</link>
+      <link>http://neasair.org/categories/korean/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/korean/</guid>
+      <guid>http://neasair.org/categories/korean/</guid>
       <description></description>
     </item>
     
