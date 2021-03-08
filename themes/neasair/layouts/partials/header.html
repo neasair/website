@@ -1,0 +1,25 @@
+<header>
+    <div class="headertop">
+        <a href="/" class="headeritem">Home</a>
+        {{ range .Site.Menus.main }}
+            <a href="{{ .URL }}" class="headeritem">{{ .Name }}</a>
+        {{ end }}
+    </div>
+    <div class="headermiddle">
+        <div class="headertitle"><span class="capitaln">N</span><span class="easair">EASAIR</span></div>
+        <div class="headercol">
+            <div class="headermiddledivider">
+                <div style="padding: 20px;">
+                    <div class="headermiddletext">North East Asia Security</div>
+                    <div class="headermiddletext">and International Relations</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="headerbottom">
+        <div class="headercol" style="margin-left: 40px;">
+            <div>Up-to-date summaries and translations of Chinese, Korean and Japanese language news, features and analyses</div>
+            <div>&nbsp; - Making NEA sources on security and international relations more accessible</div>
+        </div>
+    </div>
+</header>
