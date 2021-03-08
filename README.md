@@ -8,3 +8,13 @@ hugo
 ```
 
 The website will then be in the "docs" subdirectory.
+
+For doing development on your local computer, the command to run
+instead is:
+
+```
+hugo serve --disableFastRender
+```
+
+This will start a web server on http://localhost:1313, which you
+can open using your web browser.

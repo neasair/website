@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://neasair.org/contact/</loc>
+    <lastmod>2021-03-08T19:05:24+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://neasair.org/blog/</loc>
+    <lastmod>2021-03-08T19:01:42+11:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://neasair.org/</loc>
     <lastmod>2021-03-03T21:14:10+11:00</lastmod>
   </url>
@@ -14,11 +24,6 @@
   
   <url>
     <loc>http://neasair.org/blog/2019/north-korea-wont-abandon-nukes/</loc>
-    <lastmod>2019-07-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://neasair.org/blog/</loc>
     <lastmod>2019-07-13T00:00:00+00:00</lastmod>
   </url>
   
