@@ -11,4 +11,4 @@ Follow:
 
 TODO: Social media things (Twitter, etc)
 
-TODO: Include a web form mailer as well
+TODO: Include a web form mailer as well, if there's a decent secure approach
