@@ -4,11 +4,11 @@ date: 2021-03-03T21:14:10+11:00
 description: "NEASAIR front page"
 ---
 {{< rawhtml >}}
+<img src="/img/front_page_image.webp" style="width: 100%;">
 <div class="content">
     <div class="blankcol">&nbsp;</div>
     <div class="centrecol">
 {{< /rawhtml >}}
-![Front page image](/img/front_page_image.webp)
 ## Weekly News/Features Wrap (Title/Abstract Translations)
 
 ### From Greater China
