@@ -5,6 +5,11 @@ description: "NEASAIR front page"
 ---
 ![Front page image](/img/front_page_image.webp)
 
+{{< rawhtml >}}
+<div class="content">
+    <div class="blankcol">&nbsp;</div>
+    <div class="centrecol">
+{{< /rawhtml >}}
 ## Weekly News/Features Wrap (Title/Abstract Translations)
 
 ### From Greater China
@@ -26,3 +31,9 @@ description: "NEASAIR front page"
 ## Scholarly / Analyses
 
 ...
+
+{{< rawhtml >}}
+    </div>
+    <div class="blankcol">&nbsp;</div>
+</div>
+{{< /rawhtml >}}
