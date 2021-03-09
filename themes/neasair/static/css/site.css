@@ -15,6 +15,16 @@ body {
 
 .headeritem {
     padding: 15px;
+    text-decoration: none;
+}
+
+.headeritem:visited {
+    color: white;
+  }
+
+.headeritem:hover {
+    color: gray;
+    text-decoration: underline;
 }
 
 .headermiddle {
