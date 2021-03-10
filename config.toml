@@ -18,5 +18,9 @@ publishDir = "docs"
   url = "/blog"
 
 [[menu.main]]
+  name = "Categories"
+  url = "/categories"
+
+[[menu.main]]
   name = "Contact"
   url = "/contact"

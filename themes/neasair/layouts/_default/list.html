@@ -1,15 +1,28 @@
 {{ define "main" }}
-<div class="container">
-    <div class="section">
+<div class="content">
+    <div class="blankcol">&nbsp;</div>
+    <div class="centrecol">
         <div class="list">
             <h1>{{ .Title }}</h1>
             {{ .Content }}
             <ul>
                 {{ range .Pages }}
-                    <li> {{ .PublishDate.Format "January 2, 2006" }} - <a href="{{ .Permalink }}">{{ .Title }}</a></li>
+                    <li>
+                        <!-- Display the Publish Date, if it's reasonable (eg after year 2000) -->
+                        {{ if gt .PublishDate.Year 2000 }}
+                        {{ .PublishDate.Format "January 2, 2006" }} -
+                        {{ end }}
+
+                        <a href="{{ .Permalink }}">{{ .Title }}</a><br/>
+
+                        <!-- Display the reading time, if it's not 0 -->
+                        {{ if ne .ReadingTime 0 }}
+                        <span class="readingtime">Estimated reading time:</span> {{ .ReadingTime }} {{ if eq .ReadingTime 1 }} minute {{ else }} minutes {{ end }}</li>
+                        {{ end }}
                 {{ end }}
             </ul>
         </div>
     </div>
+    <div class="blankcol">&nbsp;</div>
 </div>
 {{ end }}

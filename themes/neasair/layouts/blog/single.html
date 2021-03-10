@@ -1,0 +1,41 @@
+{{ define "main" }}
+<div class="content">
+    <div class="blankcol">&nbsp;</div>
+    <div class="centrecol">
+
+        <div class="readingblock">
+            <!-- Display estimated article reading time -->
+            {{ if ne .ReadingTime 0 }}
+            <div><span class="readingtime">Estimated reading time:</span>&nbsp; {{ .ReadingTime }} {{ if eq .ReadingTime 1 }} minute {{ else }} minutes {{ end }}</div>
+            {{ end }}
+
+            <!-- Display the categories the article belongs to -->
+            <span class="readingtime">Categories:</span>&nbsp;
+            {{ range $idx, $category := .Params.categories }}
+            {{- if ne $idx 0 }}, {{ end }}<a href="{{ "categories/" | relURL }}{{ $category | urlize }}">{{ $category }}</a>
+            {{- end }}
+        </div>
+
+        <!-- Main article content -->
+        {{ .Content }}
+
+        <!-- Links to previous and next articles -->
+        <div class="prev-next-article-links">
+            <div class="prev-link">
+                {{ with .PrevInSection }}
+                    <span class="footerlink">Previous article:</span><br/>
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                {{ end }}
+            </div>
+            <div class="next-link">
+                {{ with .NextInSection }}
+                    <span class="footerlink">Next article:</span><br/>
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                {{ end }}
+            </div>
+        </div>
+
+    </div>
+    <div class="blankcol">&nbsp;</div>
+</div>
+{{ end }}

@@ -124,3 +124,30 @@ footer {
 .footeritem {
     padding: 15px;
 }
+
+.footerlink {
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.prev-next-article-links {
+    display: flex;
+    flex-direction: row;
+    background-color: lightsteelblue;
+    border-radius: 10px;
+    line-height: 1.5em;
+    margin-bottom: 1em;
+    padding: 0.5em 0.5em 0.5em 0.5em;
+}
+
+.readingblock {
+    background-color: lightsteelblue;
+    border-radius: 10px;
+    line-height: 1.5em;
+    margin-bottom: 1em;
+    padding: 0.5em 0.5em 0.5em 0.5em;
+}
+
+.readingtime {
+    font-style: italic;
+}
