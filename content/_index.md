@@ -9,17 +9,17 @@ description: "NEASAIR front page"
     <div class="blankcol">&nbsp;</div>
     <div class="centrecol">
 {{< /rawhtml >}}
-## Weekly News/Features Wrap (Title/Abstract Translations)
+# Weekly News/Features Wrap (Title/Abstract Translations)
 
-### From Greater China
-
-...
-
-### From the Korean Peninsula
+## From Greater China
 
 ...
 
-### From Japan
+## From the Korean Peninsula
+
+...
+
+## From Japan
 
 ...
 
