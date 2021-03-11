@@ -3,7 +3,12 @@
     <div class="blankcol">&nbsp;</div>
     <div class="centrecol">
         <div class="list">
-            <h1>{{ .Title }}</h1>
+            <h1>{{ if eq .Title "chinese" }}Greater China
+                {{ else if eq .Title "scholar" }}Scholarly / Analyses
+                {{ else if eq .Title "special" }}Special Features
+                {{ else if eq .Title "japan" }}Japan
+                {{ else if eq .Title "korean" }}The Korean Peninsula
+                {{ else }}{{ .Title }}{{ end }}</h1>
             {{ .Content }}
         </div>
         <div class="list">
