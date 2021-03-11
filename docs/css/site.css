@@ -151,3 +151,8 @@ footer {
 .readingtime {
     font-style: italic;
 }
+
+.year {
+    font-size: 24px;
+    font-weight: 700;
+}

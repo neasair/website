@@ -5,29 +5,39 @@
         <div class="list">
             <h1>{{ .Title }}</h1>
             {{ .Content }}
+        </div>
+        <div class="list">
+            {{ $pages := .Pages }}
+            {{ if .IsHome }}
+            {{ $pages = .Site.RegularPages }}
+            {{ end }}
+            {{ range (where $pages "Section" "!=" "").GroupByDate "2006" }}
+            <div class="year">{{ .Key }}</div>
             <ul>
                 {{ range .Pages }}
-                    <li>
-                        <!-- Display the Publish Date, if it's reasonable (eg after year 2000) -->
-                        {{ if gt .PublishDate.Year 2000 }}
-                        {{ .PublishDate.Format "January 2, 2006" }} -
-                        {{ end }}
+                <li>
+                    <!-- Display the Publish Date, if it's reasonable (eg after year 2000) -->
+                    {{ if gt .PublishDate.Year 2000 }}
+                    {{ .PublishDate.Format "January 2, 2006" }} -
+                    {{ end }}
 
-                        <!-- Display the title or category names -->
-                        <a href="{{ .Permalink }}">
-                        {{ if eq .Title "chinese" }}Greater China
-                        {{ else if eq .Title "scholar" }}Scholarly / Analyses
-                        {{ else if eq .Title "special" }}Special Features
-                        {{ else if eq .Title "japan" }}Japan
-                        {{ else if eq .Title "korean" }}The Korean Peninsula
-                        {{ else }}{{ .Title }}{{ end }}</a><br/>
+                    <!-- Display the title or category names -->
+                    <a href="{{ .Permalink }}">
+                    {{ if eq .Title "chinese" }}Greater China
+                    {{ else if eq .Title "scholar" }}Scholarly / Analyses
+                    {{ else if eq .Title "special" }}Special Features
+                    {{ else if eq .Title "japan" }}Japan
+                    {{ else if eq .Title "korean" }}The Korean Peninsula
+                    {{ else }}{{ .Title }}{{ end }}</a><br/>
 
-                        <!-- Display the reading time, if it's not 0 -->
-                        {{ if ne .ReadingTime 0 }}
-                        <span class="readingtime">Estimated reading time:</span> {{ .ReadingTime }} {{ if eq .ReadingTime 1 }} minute {{ else }} minutes {{ end }}</li>
-                        {{ end }}
-                {{ end }}
+                    <!-- Display the reading time, if it's not 0 -->
+                    {{ if ne .ReadingTime 0 }}
+                    <span class="readingtime">Estimated reading time:</span> {{ .ReadingTime }} {{ if eq .ReadingTime 1 }} minute {{ else }} minutes {{ end }}
+                    {{ end }}
+                </li>
+            {{ end }}
             </ul>
+            {{ end }}
         </div>
     </div>
     <div class="blankcol">&nbsp;</div>
