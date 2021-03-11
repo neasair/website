@@ -13,7 +13,14 @@
                         {{ .PublishDate.Format "January 2, 2006" }} -
                         {{ end }}
 
-                        <a href="{{ .Permalink }}">{{ .Title }}</a><br/>
+                        <!-- Display the title or category names -->
+                        <a href="{{ .Permalink }}">
+                        {{ if eq .Title "chinese" }}Greater China
+                        {{ else if eq .Title "scholar" }}Scholarly / Analyses
+                        {{ else if eq .Title "special" }}Special Features
+                        {{ else if eq .Title "japan" }}Japan
+                        {{ else if eq .Title "korean" }}The Korean Peninsula
+                        {{ else }}{{ .Title }}{{ end }}</a><br/>
 
                         <!-- Display the reading time, if it's not 0 -->
                         {{ if ne .ReadingTime 0 }}
