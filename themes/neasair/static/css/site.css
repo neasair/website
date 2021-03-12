@@ -140,6 +140,16 @@ footer {
     padding: 0.5em 0.5em 0.5em 0.5em;
 }
 
+.prev-link {
+    padding-right: 0.2em;
+    width: 50%;
+}
+
+.next-link {
+    padding-left: 0.2em;
+    width: 50%;
+}
+
 .readingblock {
     background-color: lightsteelblue;
     border-radius: 10px;
@@ -162,7 +172,7 @@ footer {
     font-size: 24px;
     font-weight: 700;
     margin: 10px 0 10px 0;
-}
+ }
 
 .frontpageheadinglink {
     text-decoration: none;
