@@ -1,4 +1,4 @@
-baseURL = "http://neasair.org"
+baseURL = "https://neasair.org"
 languageCode = "en-us"
 title = "North East Asia Security and International Relations"
 theme = "neasair"
