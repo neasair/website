@@ -10,10 +10,11 @@ tags: []
 keywords:
   - tech
 ---
+# From the Heisei to the Reiwa era - the Self Defence Force and National Security of a Changing Japan
 
 *Updated: Jul 19, 2019*
 
-平成から令和へ。変わる日本の自衛隊と安全保障\
+## 平成から令和へ。変わる日本の自衛隊と安全保障
 Asahi May 22, 2019\
 https://webronza.asahi.com/politics/articles/2019052200004.html
 

@@ -10,13 +10,15 @@ tags: []
 keywords:
   - tech
 ---
+# Editorial: If American arms sales go too far they will endanger Taiwan
 
 *Updated: Jul 19, 2019*
 
-社评：美对台军售，走过头就是台湾之危
-
-# Global Times
-
+{{< rawhtml >}}
+<h2>
+社评：美对台军售，走过头就是台湾之危<br/>
+Global Times</h2>
+{{< /rawhtml >}}
 July 9, 2019\
 http://baijiahao.baidu.com/s?id=1638561132431613159&wfr=spider&for=pc
 

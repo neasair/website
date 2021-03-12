@@ -10,12 +10,15 @@ tags: []
 keywords:
   - tech
 ---
+# 075 Type’s 30,000 tons is enough, because China has two ‘outdated’ aircraft carriers
 
 *Updated: Jul 19, 2019*
 
-075三万吨足够了 因为中国有2艘“落后”航母
-
-# Fenghuang
+{{< rawhtml >}}
+<h2>
+075三万吨足够了 因为中国有2艘“落后”航母<br/>
+Fenghuang</h2>
+{{< /rawhtml >}}
 Jul 8, 2019\
 https://mil.ifeng.com/c/7o8UAju0Ggq
 

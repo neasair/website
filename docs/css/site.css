@@ -156,3 +156,41 @@ footer {
     font-size: 24px;
     font-weight: 700;
 }
+
+.frontpageheading {
+    color: rgb(0, 0, 120);
+    font-size: 24px;
+    font-weight: 700;
+    margin: 10px 0 10px 0;
+}
+
+.frontpageheadinglink {
+    text-decoration: none;
+}
+
+.frontpagerow {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-b;
+}
+
+.frontpagenewsitem {
+    display: flex;
+    flex-direction: column;
+    padding: 0.5em;
+    width: 33%;
+}
+
+.frontpagenewslink {
+    text-decoration: none;
+    color: black;
+}
+
+.frontpagenewslink:hover {
+    color: gray;
+}
+
+.frontpagenewsitemtitle {
+    font-size: 18px;
+    font-weight: bold;
+}

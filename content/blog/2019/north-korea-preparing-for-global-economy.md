@@ -9,11 +9,15 @@ tags: []
 keywords:
   - tech
 ---
+# North Korea, which is calling for self-rejuvination, is preparing itself for the global economy
 
 *Updated: Jul 13, 2019*
 
-자력갱생 외치는 북한, 글로벌경제 대비\
-Yonhap News TV\
+{{< rawhtml >}}
+<h2>
+자력갱생 외치는 북한, 글로벌경제 대비<br/>
+Yonhap News TV</h2>
+{{< /rawhtml >}}
 June 8, 2019\
 http://www.yonhapnewstv.co.kr/MYH20190607019400038/?did=1825m
 

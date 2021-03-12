@@ -9,10 +9,16 @@ tags: []
 keywords:
   - tech
 ---
+# Anti-China sentiments are spreading in Pyongyang
+
 *Updated: Jul 19, 2019*
 
-평양시민들 사이에 반중 분위기 확산\
-RFA, Aug. 22, 2018\
+{{< rawhtml >}}
+<h2>
+평양시민들 사이에 반중 분위기 확산<br/>
+RFA</h2>
+{{< /rawhtml >}}
+Aug. 22, 2018\
 https://www.rfa.org/korean/in_focus/nk_nuclear_talks/antichina-08222018102647.html
 
 Anchor:

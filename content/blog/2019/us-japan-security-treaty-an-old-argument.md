@@ -10,13 +10,17 @@ tags: []
 keywords:
   - tech
 ---
+# ‘The security treaty between the United States and Japan is unfair’ is an old argument
 
 *Updated: Jul 13, 2019*
 
-「日米安保は不公平」は、今に始まった議論ではない\
-Asabi Shimbun Globe\
+{{< rawhtml >}}
+<h2>
+「日米安保は不公平」は、今に始まった議論ではない<br/>
+Asabi Shimbun Globe</h2>
+{{< /rawhtml >}}
 July 7, 2019\
-https://globe.asahi.com/article/12508614  
+https://globe.asahi.com/article/12508614
 
 Since it was reported that President Trump talked about ‘tearing up’ the Japan-U.S. security treaty, there has been ongoing uncertainty has about what will become of the Japan-U.S. alliance. Although it doesn’t appear to be the case that this was directly touched upon in the leaders’ meeting, it is clear that a conflict of interests exists. In response to the American president’s insistence that ‘Japan does not have an obligation to defend America - a one-sided treaty is unfair,’ Japan responded by noting that ‘Japan’s has taken on an appropriate burden in matters such as providing financial support for U.S. forces stationed in Japan, and the Japan-US security treaty is the foundation of stability in the Asia-Pacific.’ In truth, this argument is not new…
 

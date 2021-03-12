@@ -10,10 +10,11 @@ tags: []
 keywords:
   - tech
 ---
+# President Moon warns Japan: ‘A necessary response when Korean companies are harmed’
 
 *Updated: Jul 13, 2019*
 
-문 대통령 “한국기업 피해 땐 필요한 대응” 일본에 경고\
+## 문 대통령 “한국기업 피해 땐 필요한 대응” 일본에 경고
 [Hani.co.kr](http://hani.co.kr), July 8, 2019\
 http://www.hani.co.kr/arti/politics/bluehouse/900913.html#csidx6183caecd1c96ed8c3be1b3174e758f
 

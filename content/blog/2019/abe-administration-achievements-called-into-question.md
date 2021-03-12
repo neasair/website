@@ -9,10 +9,11 @@ tags: []
 keywords:
   - tech
 ---
+# The Abe administration's diplomatic achievements are being called into question [excerpt]
 
 *Updated: Jul 13, 2019*
 
-北方領土、拉致解決進まず＝日中改善も公船侵入続く－問われる安倍政権【19参院選】\
+## 北方領土、拉致解決進まず＝日中改善も公船侵入続く－問われる安倍政権【19参院選】
 Jiji, July 2, 2019\
 https://www.jiji.com/jc/article?k=2019070200701&g=pol
 

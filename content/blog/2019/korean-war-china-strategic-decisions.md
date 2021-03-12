@@ -9,9 +9,13 @@ tags: []
 keywords:
   - tech
 ---
+# The Korean War and China’s Strategic Decisions
 
-朝顯戰爭與中國的決策\
-Shen Zhihua 沈志華\
+{{< rawhtml >}}
+<h2>
+朝顯戰爭與中國的決策<br/>
+Shen Zhihua 沈志華</h2>
+{{< /rawhtml >}}
 Notes from Shen Zhihua's presentation, delivered at the Yonsei Institute of Sinology (Seoul), Jun 19, 2019 
 
 ![Two leaders greeting](/img/two_leaders_greeting_pic.webp "Two leaders greeting")
