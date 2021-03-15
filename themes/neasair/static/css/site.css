@@ -179,6 +179,13 @@ footer {
     text-decoration: none;
 }
 
+.frontpagemore {
+    color: rgb(0, 0, 120);
+    display: flex;
+    font-size: 18px;
+    justify-content: right;
+}
+
 .frontpagerow {
     display: flex;
     flex-direction: row;
