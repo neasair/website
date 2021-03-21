@@ -5,6 +5,7 @@ date: '2021-03-07'
 slug: sino-north-post-corona
 categories:
   - korean
+  - scholar
 tags: []
 ---
 # Sino-North Korea relations are now heading towards a ‘post Corona’ era
