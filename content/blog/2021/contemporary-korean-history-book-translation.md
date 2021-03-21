@@ -1,8 +1,8 @@
 ---
 title: '한국 현대사  South Korean Contemporary History - A New Milestone'
 author: Corey Bell
-date: '2020-12-12'
-slug: trumps-triumphant-taiwan-policy
+date: '2021-03-01'
+slug: contemporary-korean-history-book-translation
 categories:
   - scholar
 tags: []

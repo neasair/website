@@ -11,10 +11,10 @@ categories:
 ## 国台办：美舰穿航台湾海峡的行为向“台独”传递错误信号
 Xinhua
 
-http://www.xinhuanet.com/2021-03/17/c_1127222759.htm
+http://www.xinhuanet.com/2021-03/17/c_1127222759.htm  
 March 17, 2021
 
-Cha Wenye, Liu Huan, Chen Shu
+By Cha Wenye, Liu Huan, Chen Shu
 
 Taiwan Affairs Office spokesperson Zhu Fenglian responded to an enquiry on March 17 by stating an American 
 vessel’s navigation through the Taiwan Strait is sending the wrong message to ‘Taiwan independence’ separatist 
