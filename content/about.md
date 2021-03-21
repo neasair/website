@@ -30,3 +30,4 @@ Readers are welcome to contact NEASAIR (see below for contact details). In relat
 ![Editor-in-Chief](/img/corey_bell.webp "Editor in Chief")
 
 Corey Lee Bell: <corey@neasair.org>
+Twitter: Neasair@Neasair1
