@@ -27,7 +27,11 @@ Readers are welcome to contact NEASAIR (see below for contact details). In relat
 
 ## STAFF
 
-![Editor-in-Chief](/img/corey_bell.webp "Editor in Chief")
+![Editor-in-Chief](/img/corey_bell.webp "Editor in Chief")  
+
+Corey Lee Bell attained his PhD from the University of Melbourne's Asia Institute. His analyses on security and international relations in the region have been published in The National Interest, The Diplomat, ASPI Strategist, The Australian, Taiwan Insight, other magazines/media outlets, and academic publications (i.e., Palgrave). He has lived in Northeast Asia for more than 10 years, much of which has been spent in Taiwan, Hong Kong, South Korea and Japan. He has worked with think tanks, scholars and former officials/diplomats in the region, and is currently a researcher based in Taiwan.  
+
+Linkedin: www.linkedin.com/in/corey-lee-bell-187a921b6   
 
 Corey Lee Bell: <corey@neasair.org>  
 Twitter: [@Neasair1](https://twitter.com/Neasair1)
