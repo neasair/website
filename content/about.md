@@ -11,19 +11,21 @@ Another way that NEASAIR is different is that it complements the existing pletho
 
 ## SUBMISSIONS
 
-Although NEASAIR is a one-man volunteer operation at the moment, it plans to grow. Readers who are competent translators are welcome to submit translations of articles Anglophone readers would find interesting. Submissions should include a short translator bio and a link to the original article.  
+NEASAIR plans to grow. Readers who are competent translators are welcome to submit translations of articles Anglophone readers might find interesting. Submissions should include a short translator bio and a link to the original article.  
 
-While I reserve the right to make decisions on what will be published on this site, I will make sure I look over all submissions. If the article is on the long side (above 2000 words) please send a 'pitch' in advance.
+While we reserve the right to make decisions on what will be published on this site, we will make sure to look over all submissions. If the article is on the long side (above 2000 words) please send a 'pitch' in advance.
 
 ## NOTES ON TRANSLATION
 
-NEASAIR's foremost goal is to create a 'window' into the region for a general readership. Thus while there will be a greater attention to detail and nuance in cases of diplomatically sensitive issues/statements, in most circumstances, nuances may be brushed over and details may be omitted when they are deemed to be extraneous, confusing, or if they reduce a text's narrative flow. In certain cases, the texts presented on this site may be more aptly described as paraphrases rather than bona fide translations. 
+NEASAIR's foremost goal is to create a 'window' into the region for a general readership. Thus while there will be a greater attention to detail and nuance in cases of diplomatically sensitive issues/statements, in most circumstances, nuances may be brushed over and details may be omitted when they are deemed to be extraneous, confusing, or if they reduce a text's narrative flow. In certain cases, texts that appear on this site may be more aptly described as paraphrases of non-English texts rather than bona fide translations. 
 
 Hence while readers are free to quote the translation that appear on this site, NEASAIR strongly recommends that all translations are checked by a competent/qualified translator before they are used in academic/media or other official/semi-official reports or articles.
 
 ## CONTACTING NEASAIR 
 
-Readers are welcome to contact NEASAIR (see below for contact details). In relation to translations - all constructive criticism that addresses flagrant inaccuracies, or areas where the text is ambiguous or unreadable, will be welcome. However, please keep in mind - this is not a forum on translation studies. At this stage, NEASAIR is committed to mobilising its limited resources to providing a window to the region, not a microscope (please note the aforementioned point about 'paraphrase/translation').
+Readers are welcome to contact NEASAIR (see below for contact details). If a reader is aware of any scoops that have not been covered in the Anglophone media, please share them. If you would like NEASAIR to cover a particular topic or issue, please let us know. We are also open to requests to translate individual articles, provided they are relevent to our core areas. Please note, however, that we retain discretion on all issues related to this website's content and may not be able to respond to all requests.
+
+In relation to translations - all constructive criticism that addresses flagrant inaccuracies, or areas where the text is ambiguous or unreadable, will be welcome. However, please keep in mind - this is not a forum on translation studies. At this stage, NEASAIR is committed to providing a window to the region, not a microscope.
 
 ## STAFF
 
