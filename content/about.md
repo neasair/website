@@ -3,7 +3,7 @@ date: "2019-01-30T14:09:28+11:00"
 title: About
 ---
 
-*NEASAIR provides Anglophone readers interested in security and international relations in North East Asia with a window into the unique perspectives, insights and foci of Chinese, Japanese and Korean language media and analyses.*
+*NEASAIR provides Anglophone readers interested in security issues and international relations in North East Asia with a window into the unique perspectives, insights and foci of Chinese, Japanese and Korean language media and analyses.*
 
 NEASAIR is different. Its primary aim is to give Anglophone readers interested in security and international relations in North East Asia a window into the unique perspectives, insights and foci that can be found in Chinese, Japanese and Korean language media and analyses. It does this by providing translations of texts written in these languages in isolation, as opposed to embedding paraphrased sections of the text / small quotes into an analysis, and then subjecting the contents to additional layers of interpretation. It aims to provide up-to-date materials - to the extent that this is possible for what is, at this stage, a one man operation. However, NEASAIR also provides more dated editorials and analyses which are significant, yet which may have escaped the attention of Anglophone scholars / the media. 
 
