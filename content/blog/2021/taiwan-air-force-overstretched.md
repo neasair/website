@@ -2,7 +2,7 @@
 title: Why did Taiwan’s airforce urgently announce it had resumed flying? 
 author: Corey Bell
 date: '2021-04-02'
-slug: TAO-five-year-plan
+slug: taiwan-air-force-overstretched
 categories:
   - chinese
 ---
