@@ -2,7 +2,7 @@
 title: Media Wrap March 27 (update April 2)
 author: Corey Bell
 date: '2021-04-02'
-slug: media-wrap-march
+slug: media-wrap-march-27
 categories:
   - special
 ---
