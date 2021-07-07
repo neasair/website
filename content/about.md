@@ -27,6 +27,8 @@ Readers are welcome to contact NEASAIR (see below for contact details). If a rea
 
 In relation to translations - all constructive criticism that addresses flagrant inaccuracies, or areas where the text is ambiguous or unreadable, will be welcome. However, please keep in mind - this is not a forum on translation studies. At this stage, NEASAIR is committed to providing a window to the region, not a microscope.
 
+[Update 7 July 2021] In response to requests from readers, original language text will henceforth be included with the translations/paraphrases.
+
 ## STAFF
 
 ![Editor-in-Chief](/img/corey_bell.webp "Editor in Chief")  
