@@ -6,27 +6,29 @@ slug: What-happened-in-hong-kong
 categories:
   - special
 ---
-*(Draft)*
 
 TRANSLATOR'S NOTE:  
-This is a draft translation of a section of the book "What happened in Hong Kong?", which was compiled by a  
-group of anonymous authors affiliated with Hong Kong's pro-democracy movement. It discusses the history of the  
-2019 Anti-extradition Movement, including its causes, constitution, key events/milestones, and legacy. It's  
-value is that it draws from the experiences, insights and perspectives of the movement's "insiders," and as such,  
-presents an account of this important part of Hong Kong's history that differs markedly  
-from the narratives constructed by China/Hong Kong's state media, as well as the 'outsider' accounts of journalists  
-and scholars. In order to produce a complete English translation of this work, I am currently running a crowd-funding  
-campaign on Pozible. The finished product will be free for distribution.
+This is an excerpt from my draft translation of "What happened in Hong Kong?" (2021) - a widely shared, free  
+Chinese language ebook that was compiled by a group of anonymous authors affiliated with Hong Kong's pro-democracy  
+movement. The book discusses the history of the 2019 Anti-extradition Movement, including its causes, constitution, key  
+events/milestones, and legacy. While it presents an informed and well structured account of this important part of  
+Hong Kong's modern history, its enormous value lies in its authors' ability to draw from the experiences, insights  
+and perspectives of the movement's "insiders." As such, it contains details that could only be known by those  
+intimate with the movement, and it presents a narrative that differs markedly from that constructed by  
+China/Hong Kong's state media, as well as the 'outsider' accounts of journalists and scholars. In order to  
+produce a complete English translation of this work, I am currently running a crowd-funding campaign on Pozible.  
+The finished product will be free for distribution.
 
 Since this was originally written as a non academic book, this translation aims to balance the two objectives of  
-remaining faithful to the original, and proving readible to non-Chinese readers who are completely unfamiliar with  
-Hong Kong's history, society and cultural mores. As my translation is in the draft phase, I welcome  
+remaining faithful to the original, and being readible to non-Chinese readers who are completely unfamiliar with  
+Hong Kong's history, society and culture. As my translation is in the draft phase, I welcome  
 comments/suggestions from readers.  
 
 NOTE: For legal reasons, I have added the word 'alleged' in incidences where allegations of misconduct/criminal  
-offences have not been upheld in a court of law or are subject to ongoing jucidial enquiries.
+offences have not been upheld in a court of law.
 
 -----------------------------------------------
+*(Draft)*
 
 ## Preface: What Happened in Hong Kong?
 
@@ -1243,7 +1245,7 @@ Street stands refers to temporary stalls set up in public spaces where people pr
 They had been frequently used by local political organisations for many years. During the Anti-extradition Movement, street  
 stands erected by ordinary members of the public “bloomed everywhere,” and were used by those fighting the legislation to get their  
 views across, and encourage more people to join in the fight. In addition to hosting speeches, stalls featuring video projections  
-were quite prevalent. To bring attention to the problem of police misconduct, some demonstrators made short clips featuring 
+were quite prevalent. To bring attention to the problem of police misconduct, some demonstrators made short clips featuring  
 compilations of alleged instances of police misconduct, and erected “Police brutality screening stands” in several districts.  
 Protesters also broadcast documentaries on the movement in many districts to catch the attention of locals.  
 
